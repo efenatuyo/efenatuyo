@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efenatuyo&label=Profile%20views&color=0e75b6&style=flat" alt="efenatuyo" /> </p>
 
-- 🔭 I’m currently working on [bloxflip predictor](https://github.com/efenatuyo/bloxflipPredictor)
+- 🔭 I’m currently working on [python obfuscator](https://github.com/efenatuyo/Xolo-Obfuscator)
 
 - 🌱 I’m currently learning **webdevelopment**
 
 - 💬 Ask me about **discord bots**
 
-- 📫 How to reach me **xolo#3979**
+- 📫 How to reach me **xolo#6826**
 
 - 📄 Know about my experiences [https://github.com/efenatuyo/bloxflipPredictor](https://github.com/efenatuyo/bloxflipPredictor)
 
