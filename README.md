@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **discord bots**
 
-- 📫 How to reach me **xolo#6826**
+- 📫 How to reach me **[myserver](https://discord.gg/Hwwaagtp)**
 
 - 📄 Know about my experiences [https://github.com/efenatuyo/bloxflipPredictor](https://github.com/efenatuyo/bloxflipPredictor)
 
